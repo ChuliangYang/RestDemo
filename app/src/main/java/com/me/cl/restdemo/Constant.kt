@@ -6,3 +6,4 @@ package com.me.cl.restdemo
 
 //Network
 val base_url="https://131e7541-4f4f-41af-9ccf-ee4f5f6bc8a6.mock.pstmn.io/"
+val file_server_url="https://content.dropboxapi.com/"

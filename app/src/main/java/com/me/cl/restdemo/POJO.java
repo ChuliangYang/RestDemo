@@ -3,7 +3,7 @@ package com.me.cl.restdemo;
 /**
  * Created by CL on 7/16/18.
  */
-public class Bean {
+public class POJO {
     /**
      * userId : 1
      * id : 1
